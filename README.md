@@ -12,6 +12,9 @@ You'll need to have locally in your machine:
 
 ## Installing
 ```bash
+git clone git@github.com:jonatasbaldin/cka-jupyter.git
+cd cka-jupyter
+
 python -m venv venv
 source venv/bin/activate
 
